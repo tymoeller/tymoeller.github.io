@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Webs"
+title                    : "TDM"
 title_separator          : "-"
-name                     : &name "Tyler Moeller"
-description              : &description "Website for Tyler Moeller"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Tyler D. Moeller"
+description              : &description "Website for Tyler D. Moeller"
+url                      : https://tymoeller.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tymoeller/tymoeller.github.io"
 
@@ -22,7 +22,7 @@ repository               : "tymoeller/tymoeller.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Tyler Moeller"
+  name             : "Tyler D. Moeller"
   pronouns         : # example: "she/her"  
   bio              : "Website under construction"
   location         : "Bethesda, MD"
